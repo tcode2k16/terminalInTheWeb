@@ -1,0 +1,28 @@
+h1.title {
+  text-align:center;
+  color:#000;
+  margin: 100px auto 0px;
+  font-family: monospace;
+}
+
+h3,p {
+  color:#000;
+  font-family: monospace;
+}
+
+p {
+  font-size: 18px
+}
+
+
+textarea {
+  border-style: none;
+  resize: none;
+  font-size: 18px;
+  color:#00fe04;
+  font-family: monospace;
+  width: 100vw;
+  height: 100vh;
+  outline: none;
+  background-color: #000;
+}
